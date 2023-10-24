@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TipoParcial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TipoParcial_jar</output-path>
+    <root id="archive" name="TipoParcial.jar">
+      <element id="module-output" name="TipoParcial" />
+    </root>
+  </artifact>
+</component>
